@@ -1,4 +1,4 @@
-## Hi there 👋, we are CAPIBARA!
+# Hi there 👋, we are CAPIBARA!
 
 CAPIBARA $^1$ is a student-driven collaboration dedicated to launching a satellite for the exploration of the high-energy cosmos, including both ionic (particle-based) and photonic (light-based: X-ray and $\gamma$-ray) radiation and bursts. To help us achieve this ambitious goal, we have applied to the SPARK program by the Spanish company PLD Space, which offers a platform to support innovative space projects.
 
