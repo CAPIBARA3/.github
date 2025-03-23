@@ -4,7 +4,7 @@ CAPIBARA is a collaboration of young researchers (high school students) aiming t
 
 Due to the duality of our objectives, we are currently planning two missions, one dedicated to each aspect of the high-energy Universe. We believe our initiative holds significant value for the astrophysics research community and other scientific fields, paving the way for groundbreaking research and discoveries. Additionally, we want to show what young students are able to contribute and that science can be made by everyone.
 
-Explore more about our project on our [website](https://capibara3.github.io). There, you will find every detail of our mission concepts, instruments, scientific program, and group memebers.
+Explore more about our project on our [website](https://capibara3.github.io). There, you will find every detail of our mission concepts, instruments, scientific program, and group members.
 
 We encourage you to contact us at our [email](mailto:capibara-mission@outlook.com). Join us on this exciting journey—we are thrilled to have you onboard! 🚀
 
