@@ -1,6 +1,6 @@
 # Hi there 👋, we are CAPIBARA!
 
-CAPIBARA is a collaboration of young researchers (high school students) aiming to explore the high-energy cosmos in its ionic (cosmic rays) and photonic (gamma/X-ray) states. CAPIBARA stands for **C**ollaboration for the **A**nalysis of **P**hotonic and **I**onic **B**ursts and **R**adiation for B**a**rcelona.
+CAPIBARA is a collaboration of young researchers (high school students) aiming to explore the high-energy cosmos in its ionic (cosmic rays) and photonic (gamma/X-ray) states. CAPIBARA stands for **C**ollaboration for the **A**nalysis of **P**hotonic and **I**onic **B**ursts and **Ra**diation.
 
 Due to the duality of our objectives, we are currently planning two missions, one dedicated to each aspect of the high-energy Universe. We believe our initiative holds significant value for the astrophysics research community and other scientific fields, paving the way for groundbreaking research and discoveries. Additionally, we want to show what young students are able to contribute and that science can be made by everyone.
 
