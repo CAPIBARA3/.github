@@ -6,6 +6,6 @@
 
 ### Explore more about our project on our [website](https://capibara3.github.io). There, you will find every detail of our mission concepts, instruments, scientific program, and group members.
 
-### We encourage you to contact us at our [email](mailto:capibara-mission@outlook.com). Join us on this exciting journey—we are thrilled to have you onboard! 🚀
+### We encourage you to contact us at our [website](https://capibara3.github.io/contact.html). Join us on this exciting journey—we are thrilled to have you onboard! 🚀
 
 ## Our goal is ambitious, but we'll make it!
