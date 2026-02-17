@@ -1,3 +1,1 @@
-# Hello 👋
-
-## Visit our [website](https://capibara3.github.io/) to learn about the CAPIBARA Collaboration and its missions!
+# <img src="https://github.com/CAPIBARA3/capibara3.github.io/raw/main/images/logos/capibara.png" height="3%" width="3%"> Hello, visit our [website](https://capibara3.github.io/) to learn about the CAPIBARA Collaboration and its missions!
